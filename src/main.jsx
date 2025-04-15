@@ -1,7 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import 'tachyons';
-import CardList from './components/CardList';
+// import CardList from './components/CardList';
 import App from './containers/App';
 import './index.css';
 
